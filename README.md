@@ -4,7 +4,7 @@
 
 
 
-\[linux](./linux)
+[linux](./linux)
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-\[data-structures](./data-structures)
+[data-structures](./data-structures)
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-\[avl-tree-coursework](./avl-tree-coursework)
+[avl-tree-coursework](./avl-tree-coursework)
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-\[cpp-stl](./cpp-stl)
+[cpp-stl](./cpp-stl)
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-\[cpp-string](./cpp-string)
+[cpp-string](./cpp-string)
 
 
 
